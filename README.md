@@ -8,7 +8,8 @@ Coloque aqui os seus dados
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Teste de inspeção Netflix](images/inspe.png)
+![Resultado apresentado no navegador da minha page](images/page.png)
 
 
 ## Orientações sobre Linguagem MarkDown
